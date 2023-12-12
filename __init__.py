@@ -1,0 +1,1 @@
+from .clipInterrogator_node import clipInterrogatorInvocation
